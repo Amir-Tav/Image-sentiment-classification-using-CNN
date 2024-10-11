@@ -1,3 +1,3 @@
-# Image-classification-using-Transfer-learning
+# Image-sentiment-classification-using-CNN
 
 
